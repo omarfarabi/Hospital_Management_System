@@ -1,0 +1,8 @@
+
+	    $=====================================$
+	    |===   1 for search by ID          ===|
+            |===   2 for search by 1st name    ===|
+	    |===   3 for search by 2nd name    ===|
+	    |===   4 for back to main menu     ===|
+            $=====================================$ 
+        

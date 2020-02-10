@@ -1,0 +1,8 @@
+SL     NAME                SPECIALITY           PHONE           EMAIL
+------------------------------------------------------------------------------
+1. DR. Md Farabi      Heart specialist    +956439     farabi@gmail.com
+2. DR. Mahi           Psychiatrist        +958456     mahi@gmail.com
+3. DR. Salman         Allergist           +936643     salman@gmail.com
+4. DR. Shah           Orthopedic          +945695     shah@gmail.com
+5. DR. Farjana        Gynecologist        +913647     farjana@gmailcom
+ 
